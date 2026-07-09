@@ -114,9 +114,9 @@
     * [Bearbeitungsablauf & Datenschutz](discord/sanktionsanliegen/bearbeitungsablauf-und-datenschutz.md)
   * [Boosterbonus](discord/boosterbonus.md)
 
-## WebLink
+## WebLink (UCP)
 
-* [WebLink – Übersicht](weblink/README.md)
+* [WebLink (UCP) – Übersicht](weblink/README.md)
   * [Account verknüpfen](weblink/account-verknuepfen.md)
   * [Dashboard](weblink/dashboard.md)
   * [Account trennen](weblink/account-trennen.md)

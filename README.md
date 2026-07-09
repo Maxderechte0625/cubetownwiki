@@ -15,4 +15,4 @@ cubetown.de
 - [Regeln](regeln/README.md)
 - [Onlineshop](onlineshop/README.md)
 - [Discord](discord/README.md)
-- [Discord-Account verknüpfen (WebLink)](weblink/README.md)
+- [Discord-Account verknüpfen (WebLink / UCP)](weblink/README.md)
