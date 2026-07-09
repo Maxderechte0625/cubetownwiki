@@ -1,6 +1,6 @@
 # Gems
 
-Gems sind die Premium-Währung im [Gemshop](https://shop.cubetown.de/category/gems) und werden mit echtem Geld gekauft. Größere Pakete geben zusätzlichen Bonus obendrauf:
+Gems sind die Premium-Währung im Ingame-`/gemshop` und werden mit echtem Geld im [Webshop](https://shop.cubetown.de/category/gems) gekauft. Damit kaufst du dir Crate Keys und besondere Items. Größere Pakete geben zusätzlichen Bonus obendrauf:
 
 | Paket | Preis |
 |---|---|
@@ -10,4 +10,8 @@ Gems sind die Premium-Währung im [Gemshop](https://shop.cubetown.de/category/ge
 | 7.500 Gems (+ 1.875 Bonus) | 74.99 € |
 | 10.000 Gems (+ 3.000 Bonus) | 99.99 € |
 
-> ✏️ **TODO:** Was man sich im Gemshop ingame dafür kaufen kann, ergänzen.
+Ausgeben kannst du deine Gems ingame per `/gemshop` für:
+- Crate Keys
+- Besondere Items
+
+> ✏️ **TODO:** Genauen Inhalt des `/gemshop` auflisten (welche Crate Keys, welche Items, Preise in Gems).
