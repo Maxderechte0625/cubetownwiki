@@ -34,6 +34,7 @@
 ## Wirtschaft & Handel
 
 * [Wirtschaft & Handel – Übersicht](wirtschaft-und-handel/README.md)
+  * [Chestshops (Kistenshops)](wirtschaft-und-handel/chestshops.md)
   * [Geld verdienen & ausgeben](wirtschaft-und-handel/geld-verdienen-und-ausgeben/README.md)
     * [Einkaufszentrum](wirtschaft-und-handel/geld-verdienen-und-ausgeben/einkaufszentrum.md)
     * [Spieler-Shops](wirtschaft-und-handel/geld-verdienen-und-ausgeben/spieler-shops.md)
