@@ -1,5 +1,5 @@
 # Chatfarbe
 
-Eigene Chatfarbe freischalten und einstellen.
+Die Chatfarbe ist ab einem gewissen Rang freigeschaltet (ab dem [Cube Rang](../onlineshop/raenge/cube-rang.md)), erhältlich im [Onlineshop](../onlineshop/README.md).
 
-> ✏️ **TODO:** Inhalt ergänzen.
+> ✏️ **TODO:** Genauen Befehl zum Einstellen der Chatfarbe ergänzen.

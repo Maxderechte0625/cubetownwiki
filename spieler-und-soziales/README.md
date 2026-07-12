@@ -2,4 +2,6 @@
 
 Alles rund um Community-Features und soziale Systeme.
 
-> ✏️ **TODO:** Inhalt ergänzen.
+- [Freunde](freunde.md)
+- [Clan](clan/README.md)
+- [Chatfarbe](chatfarbe.md)

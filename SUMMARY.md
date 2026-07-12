@@ -20,16 +20,9 @@
 ## Spieler & Soziales
 
 * [Spieler & Soziales – Übersicht](spieler-und-soziales/README.md)
-  * [Gemeinschaftsprojekt](spieler-und-soziales/gemeinschaftsprojekt.md)
   * [Freunde](spieler-und-soziales/freunde.md)
   * [Clan](spieler-und-soziales/clan/README.md)
-    * [RGB-Clanfarbe](spieler-und-soziales/clan/rgb-clanfarbe.md)
-  * [Spielerwarps](spieler-und-soziales/spielerwarps/README.md)
-    * [Allgemeine Befehle](spieler-und-soziales/spielerwarps/allgemeine-befehle.md)
-    * [Rangspezifische Befehle](spieler-und-soziales/spielerwarps/rangspezifische-befehle.md)
-    * [Warpliste](spieler-und-soziales/spielerwarps/warpliste.md)
   * [Chatfarbe](spieler-und-soziales/chatfarbe.md)
-  * [Spieler-Lounge](spieler-und-soziales/lounge.md)
 
 ## Wirtschaft & Handel
 
