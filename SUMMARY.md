@@ -32,12 +32,9 @@
     * [Einkaufszentrum](wirtschaft-und-handel/geld-verdienen-und-ausgeben/einkaufszentrum.md)
     * [Spieler-Shops](wirtschaft-und-handel/geld-verdienen-und-ausgeben/spieler-shops.md)
     * [Adminshop](wirtschaft-und-handel/geld-verdienen-und-ausgeben/adminshop.md)
-    * [Shop-Quests](wirtschaft-und-handel/geld-verdienen-und-ausgeben/shop-quests.md)
-  * [Farmaufträge](wirtschaft-und-handel/farmauftrag.md)
+  * [Quest-System](wirtschaft-und-handel/quest-system.md)
   * [Auktionshaus](wirtschaft-und-handel/auktionshaus.md)
-  * [Trade-System](wirtschaft-und-handel/trade-system.md)
   * [Casino](wirtschaft-und-handel/casino.md)
-  * [Kryptowährung](wirtschaft-und-handel/kryptowaehrung.md)
 
 ## Fortschritt & Gameplay
 

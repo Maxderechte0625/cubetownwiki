@@ -1,5 +1,7 @@
 # Geld verdienen & ausgeben
 
-Übersicht aller Einnahme- und Ausgabequellen.
+Übersicht aller Einnahme- und Ausgabequellen:
 
-> ✏️ **TODO:** Inhalt ergänzen.
+- [Einkaufszentrum](einkaufszentrum.md)
+- [Spieler-Shops](spieler-shops.md)
+- [Adminshop](adminshop.md)
