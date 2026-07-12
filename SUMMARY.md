@@ -39,16 +39,11 @@
 ## Fortschritt & Gameplay
 
 * [Fortschritt & Gameplay – Übersicht](fortschritt-und-gameplay/README.md)
-  * [Besondere Armorstands](fortschritt-und-gameplay/armorstands.md)
   * [Aufzüge](fortschritt-und-gameplay/aufzuege.md)
-  * [Nametag](fortschritt-und-gameplay/nametag.md)
   * [Cosmetics](fortschritt-und-gameplay/cosmetics/README.md)
-    * [Haustiere](fortschritt-und-gameplay/cosmetics/haustiere.md)
-    * [Partikeleffekte](fortschritt-und-gameplay/cosmetics/partikeleffekte.md)
   * [Chatgames](fortschritt-und-gameplay/chatgames.md)
   * [Jobs](fortschritt-und-gameplay/jobs.md)
-  * [Turnier](fortschritt-und-gameplay/turnier.md)
-  * [Reward-System](fortschritt-und-gameplay/reward.md)
+  * [Tägliche Belohnung](fortschritt-und-gameplay/taegliche-belohnung.md)
   * [Tägliche Quests](fortschritt-und-gameplay/taegliche-quests.md)
   * [Booster](fortschritt-und-gameplay/booster.md)
   * [Trichtersystem](fortschritt-und-gameplay/trichtersystem/README.md)

@@ -1,12 +1,12 @@
 # Quest-System
 
-Erledige spannende Quests und hol dir dafür fette Belohnungen ab – ob Geld, Gems oder sogar beides zusammen, je nach Quest ist für jeden was dabei.
+Erledige spannende Quests und hol dir dafür fette Belohnungen ab – ob Geld, Gems oder sogar beides zusammen, für jeden ist was dabei. Ein absolutes Muss für jeden, der nebenbei ordentlich absahnen will!
 
 ## Wo finde ich Quests?
 
 - Per Befehl `/quest` oder `/quests`
 - Direkt ingame **am Spawn**
 
-Schau regelmäßig vorbei – es lohnt sich, offene Quests im Blick zu behalten und abzugreifen, solange sie verfügbar sind!
+## Wie funktioniert's?
 
-> ✏️ **TODO:** Konkrete Quest-Beispiele und Belohnungshöhen ergänzen.
+Jeden Tag warten **3 neue Quests** auf dich – und zwar dieselben für alle Spieler, sodass ihr euch im Chat gegenseitig Tipps geben oder gemeinsam ranklotzen könnt. Als Belohnung gibt's Geld, Gems, oder beides zusammen – schau also täglich vorbei, es lohnt sich richtig!
